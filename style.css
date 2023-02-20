@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+#form {
+    text-align: center;
+}
+
+.secondtitle{
+    text-align: center;
+}
+
+#header-img {
+    text-align: right;
+    font-size: 25px;
+
+}
+
+#email {
+    background-color: rgb(255, 255, 154);
+}
+
+.nav-bar{
+    margin-left: 10px;
+}
+
+.nav-link{
+    font-size: 20px;
+    margin-left:20px ;
+    text-decoration: none;
+    color: gray;
+}
+
+
+.desc{
+    text-align: center;
+}
+
+
+/* style card */
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border:2px black solid;
+    margin-left: 30px;
+    
+}
+
+.title{
+    text-align: center;
+    background: rgb(83, 82, 82);
+    color: yellow;
+    font-size: 10px;
+    
+}
+.price {
+    text-align: center;
+    font-style: bold;
+}
+
+.text{
+    text-align: center;
+}
+.btn{
+    margin-bottom: 20px;
+    width: 50px;
+    text-align: center;
+    position: center;
+}
+
+.mycard{
+    display: flex;
+    justify-content: center;
+}
+
+#form  {
+    text-align: center;
+}
+
+.middle{
+    text-align: center;
+}
